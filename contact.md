@@ -2,7 +2,7 @@
 layout: page
 title: Contact me
 author: Pranjal
-permalink: /contactme/
+permalink: /contact/
 ---
 
 This is a contact me page
