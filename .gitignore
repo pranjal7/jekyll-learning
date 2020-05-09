@@ -1,5 +1,5 @@
-#_site
-#public
+_site
+public
 .sass-cache
 .jekyll-metadata
 .env
